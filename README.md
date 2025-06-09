@@ -106,5 +106,4 @@ A contract analysis assistant powered by **Google Gemini 1.5 Flash**, designed t
 
 This project brings together modern AI with a user-friendly interface to automate and simplify contract analysis. The codebase is modular, easy to extend, and built for both interactivity and clarity.
 
-> For demo, deployment, or enhancement instructions, refer to the main documentation or contact the developer.
 
